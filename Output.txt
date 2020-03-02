@@ -1,0 +1,5 @@
+OUTPUT OF THE PROGRAM
+ 1 ./leftr "abcde" 2
+    OUTPUT- cdeab
+ 2 ./leftr "naina" 3000
+    OUTPUT- naina
